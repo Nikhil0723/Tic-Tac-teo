@@ -19,7 +19,6 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://nikhil0723.github.io/Tic-Tac-teo/
-
+   git clone https://github.com/Nikhil0723/Tic-Tac-teo.git
    
 You can customize this template to fit your specific Tic Tac Toe game implementation. Don't forget to replace the placeholders with your own information, such as the repository URL, screenshots, and contact details.
